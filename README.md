@@ -6,4 +6,4 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 ## :calendar: 2018
 
 ### Janeiro
-* [Dia 29](2018/janeiro/29.md)
+* [Dia 29 - Entendendo Arrays](2018/Janeiro/29.md)
