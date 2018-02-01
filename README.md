@@ -8,3 +8,4 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 ### Janeiro
 * [Dia 29 - Entendendo Arrays](2018/Janeiro/29.md)
 * [Dia 30 - Pixel art com Css](2018/Janeiro/30.md)
+* [Dia 30 - Date JS](2018/Janeiro/31.md)
