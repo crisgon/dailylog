@@ -14,3 +14,4 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 01 - XMLHttpRequest e mais pixel art](2018/Fevereiro/01.md)
 * [Dia 02 - Arrays e box-shadow](2018/Fevereiro/02.md)
 * [Dia 03 - Geolocation, Previsão climática e descanso](2018/Fevereiro/03.md)
+* [Dia 03 - Fetch api e descanso](2018/Fevereiro/04.md)
