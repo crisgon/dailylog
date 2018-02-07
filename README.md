@@ -15,4 +15,5 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 02 - Arrays e box-shadow](2018/Fevereiro/02.md)
 * [Dia 03 - Geolocation, Previsão climática e descanso](2018/Fevereiro/03.md)
 * [Dia 04 - Fetch api e descanso](2018/Fevereiro/04.md)
-* [Dia 04 - FreeCodeCamp, API do wikipedi, "dor de cabeça" e sucesso!](2018/Fevereiro/05.md)
+* [Dia 05 - FreeCodeCamp, API do wikipedi, "dor de cabeça" e sucesso!](2018/Fevereiro/05.md)
+* [Dia 06 - FreeCodeCamp, DailyCssImages e comunidade!](2018/Fevereiro/06.md)
