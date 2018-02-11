@@ -20,4 +20,5 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 07 - Twitch API, canvas e dailycssimages!](2018/Fevereiro/07.md)
 * [Dia 08 - Dia ruim, e mais um pouco de JS!](2018/Fevereiro/08.md)
 * [Dia 09 - Algoritimos com JS e API's!](2018/Fevereiro/09.md)
-* [Dia 10 - Internet ruim... E consumo da api pokeapi](2018/Fevereiro/09.md)
+* [Dia 10 - Internet ruim... E consumo da api pokeapi](2018/Fevereiro/10.md)
+* [Dia 11 - PokeInfo finalizado e mais um artigo escrito](2018/Fevereiro/11.md)
