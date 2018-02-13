@@ -22,3 +22,4 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 09 - Algoritimos com JS e API's!](2018/Fevereiro/09.md)
 * [Dia 10 - Internet ruim... E consumo da api pokeapi](2018/Fevereiro/10.md)
 * [Dia 11 - PokeInfo finalizado e mais um artigo escrito](2018/Fevereiro/11.md)
+* [Dia 12 - Tentando entender Promisses do Javascript...](2018/Fevereiro/12.md)
