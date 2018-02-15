@@ -24,3 +24,4 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 11 - PokeInfo finalizado e mais um artigo escrito](2018/Fevereiro/11.md)
 * [Dia 12 - Tentando entender Promisses do Javascript...](2018/Fevereiro/12.md)
 * [Dia 13 - Iniciando um novo curso de Javascript](2018/Fevereiro/13.md)
+* [Dia 14 - Orientação a Objetos com Javascript](2018/Fevereiro/14.md)
