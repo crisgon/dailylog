@@ -26,3 +26,4 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 13 - Iniciando um novo curso de Javascript](2018/Fevereiro/13.md)
 * [Dia 14 - Orientação a Objetos com Javascript](2018/Fevereiro/14.md)
 * [Dia 15 - Chrome Dev Tools, JS30 e Orientação a Objetos](2018/Fevereiro/15.md)
+* [Dia 16 - Curso de JS finalizado e a volta do dailycssimages](2018/Fevereiro/16.md)
