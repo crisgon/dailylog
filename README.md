@@ -28,3 +28,5 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 15 - Chrome Dev Tools, JS30 e Orientação a Objetos](2018/Fevereiro/15.md)
 * [Dia 16 - Curso de JS finalizado e a volta do dailycssimages](2018/Fevereiro/16.md)
 * [Dia 17 - Quebrando a cabeça ao construir um To Do MVC](2018/Fevereiro/17.md)
+* [Dia 18 - Palestras e mais palestras](2018/Fevereiro/18.md)
+* [Dia 19 - Finalizando a versão 1 do To Do e aprendendo BEM](2018/Fevereiro/19.md)
