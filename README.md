@@ -31,3 +31,5 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 18 - Palestras e mais palestras](2018/Fevereiro/18.md)
 * [Dia 19 - Finalizando a versão 1 do To Do e aprendendo BEM](2018/Fevereiro/19.md)
 * [Dia 20 - Migrando do Window 10 para o Ubuntu](2018/Fevereiro/20.md)
+* [Dia 21 - Javascript e mais Ubuntu](2018/Fevereiro/21.md)
+* [Dia 22 - Resolvendo exercícios ninjas e escrevendo BEM](2018/Fevereiro/22.md)
