@@ -33,3 +33,4 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 20 - Migrando do Window 10 para o Ubuntu](2018/Fevereiro/20.md)
 * [Dia 21 - Javascript e mais Ubuntu](2018/Fevereiro/21.md)
 * [Dia 22 - Resolvendo exercícios ninjas e escrevendo BEM](2018/Fevereiro/22.md)
+* [Dia 23 - Resolvendo exercícios ninjas](2018/Fevereiro/22.md)
