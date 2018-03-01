@@ -37,3 +37,5 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 24 - Resolvendo exercícios ninjas](2018/Fevereiro/24.md)
 * [Dia 25 - Resolvendo exercícios ninjas](2018/Fevereiro/25.md)
 * [Dia 26 - BEM CSS e exercícios ninjas](2018/Fevereiro/26.md)
+* [Dia 27 - BEM CSS e exercícios ninjas](2018/Fevereiro/27.md)
+* [Dia 28 - Resolvendo exercícios ninjas](2018/Fevereiro/28.md)
