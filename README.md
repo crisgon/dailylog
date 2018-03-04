@@ -42,3 +42,5 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 
 ### Março
 * [Dia 01 - Javascript OO e exercicios ninjas](2018/Marco/01.md)
+* [Dia 02 - Mais um post sobre BEM, podcasts eexercicios ninjas](2018/Marco/02.md)
+* [Dia 03 - Hangout, flexbox e exercicios ninjas](2018/Marco/03.md)
