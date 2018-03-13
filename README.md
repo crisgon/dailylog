@@ -48,4 +48,10 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 05 - Repo dos meetups do DEV Alagoinhas e resolvendo exercicios ninjas (JS)](2018/Marco/05.md)
 * [Dia 06 - Travado nos exercicios ninjas (JS)](2018/Marco/06.md)
 * [Dia 07 - Quebrando a cabeça com exercicios ninjas (JS)](2018/Marco/07.md)
+* [Dia 08 - Tentando entender Call e Apply](2018/Marco/08.md)
+* [Dia 09 - Quebrando a cabeça com exercicios ninjas e iniciando um repositório de experimentos(JS)](2018/Marco/09.md)
+* [Dia 10 - Eventos JS e experimentando o localstorage](2018/Marco/10.md)
+* [Dia 11 - Manipulando DOM e validando CPFs com regex](2018/Marco/11.md)
+* [Dia 12 - Manipulando DOM, escrevendo um artigo sobre Template Strings e experimentando window.location](2018/Marco/12.md)
+
 
