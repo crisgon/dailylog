@@ -53,5 +53,13 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 10 - Eventos JS e experimentando o localstorage](2018/Marco/10.md)
 * [Dia 11 - Manipulando DOM e validando CPFs com regex](2018/Marco/11.md)
 * [Dia 12 - Manipulando DOM, escrevendo um artigo sobre Template Strings e experimentando window.location](2018/Marco/12.md)
+* [Dia 13 - Entendendo AJAX e usando File Read](2018/Marco/13.md)
+* [Dia 14 - AJAX e Select input JS](2018/Marco/14.md)
+* [Dia 15 - AJAX, DOM e Strict Mode](2018/Marco/15.md)
+* [Dia 16 - InnerHTML, inserAdjacentHTML e tentativa de criar um filter](2018/Marco/16.md)
+* [Dia 17 - Criando um pequeno filter e aprendendo sobre comsuno de api com js puro](2018/Marco/17.md)
+* [Dia 18 - Criando um sort de produtos](2018/Marco/18.md)
+* [Dia 19 - Criando um sorteador de nomes e iniciando o curso de js com tdd](2018/Marco/19.md)
+* [Dia 20 - Drag and Drop e  js com tdd](2018/Marco/20.md)
 
 
