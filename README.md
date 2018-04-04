@@ -61,5 +61,15 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 18 - Criando um sort de produtos](2018/Marco/18.md)
 * [Dia 19 - Criando um sorteador de nomes e iniciando o curso de js com tdd](2018/Marco/19.md)
 * [Dia 20 - Drag and Drop e  js com tdd](2018/Marco/20.md)
+* [Dia 21 - Sem estudos por conta de um apagão =/](2018/Marco/21.md)
+* [Dia 22 - Show or Hidden password e js com tdd ](2018/Marco/22.md)
+* [Dia 23 - Tentativa de criar um contador de caracteres restantes e  js com tdd](2018/Marco/23.md)
+* [Dia 24 - Completando o contador de caracteres restantes e resolvendo exercicios do FCC](2018/Marco/24.md)
+* [Dia 25 - Resolvendo exercicios do FCC](2018/Marco/25.md)
+* [Dia 26 - Refatorando desafios do FCC](2018/Marco/26.md)
+* [Dia 27 - Refatorando desafios do FCC com async e await](2018/Marco/27.md)
+* [Dia 30 - 28 e 29 foi descanso... Hoje voltei e fiz um carousel com JS puro.](2018/Marco/30.md)
+* [Dia 31 - Swipe Cards no estilo tinder com HammerJS.](2018/Marco/31.md)
+* [Dia 01 - Webpack e Infinite Scroll com JS puro.](2018/Abril/01.md)
 
 
