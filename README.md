@@ -70,6 +70,14 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 27 - Refatorando desafios do FCC com async e await](2018/Marco/27.md)
 * [Dia 30 - 28 e 29 foi descanso... Hoje voltei e fiz um carousel com JS puro.](2018/Marco/30.md)
 * [Dia 31 - Swipe Cards no estilo tinder com HammerJS.](2018/Marco/31.md)
+
+### Abril
+
 * [Dia 01 - Webpack e Infinite Scroll com JS puro.](2018/Abril/01.md)
+* [Dia 02 - Teoria de JS com TDD.](2018/Abril/02.md)
+* [Dia 03 - Teoria de JS com TDD.](2018/Abril/03.md)
+* [Dia 04 - Teoria de JS com TDD.](2018/Abril/04.md)
+* [Dia 05 - JS com TDD na prática.](2018/Abril/05.md)
+* [Dia 06 - JS com TDD na prática, primeiro test com mocha e chai.](2018/Abril/06.md)
 
 
