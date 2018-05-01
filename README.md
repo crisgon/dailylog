@@ -94,5 +94,6 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 27 - Iniciando a leitura do You Don't Know JS.](2018/Abril/27.md)
 * [Dia 28 - Inkscape e SVG no Flisol.](2018/Abril/28.md)
 
+### Maio
 
-
+* [Dia 01 - Typewriter com JS e artigo sobre coerção de tipos.](2018/Maio/01.md)
