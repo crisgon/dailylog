@@ -79,5 +79,20 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 * [Dia 04 - Teoria de JS com TDD.](2018/Abril/04.md)
 * [Dia 05 - JS com TDD na prática.](2018/Abril/05.md)
 * [Dia 06 - JS com TDD na prática, primeiro test com mocha e chai.](2018/Abril/06.md)
+* [Dia 07 - JS com TDD na prática, fazendo um fizzbuzz.](2018/Abril/07.md)
+* [Dia 11 - Voltando a ativa depois de uma pause. Iniciando um checkbox filter e fazendo um code review.](2018/Abril/11.md)
+* [Dia 12 - Copy x Reference em arrays e objetos e localStorage. JS30](2018/Abril/12.md)
+* [Dia 14 - Text Shadow com Javascript. JS30](2018/Abril/14.md)
+* [Dia 16 - Reduce. JS30](2018/Abril/16.md)
+* [Dia 17 - Brincando com a Webcam. JS30](2018/Abril/17.md)
+* [Dia 18 - Link highlighter. JS30](2018/Abril/18.md)
+* [Dia 20 - Sticky Nav. JS30](2018/Abril/20.md)
+* [Dia 21 - Meetup!!!](2018/Abril/21.md)
+* [Dia 24 - Dropdown. JS30](2018/Abril/24.md)
+* [Dia 25 - Drag and Scroll e Player de Video. JS30](2018/Abril/25.md)
+* [Dia 26 - Um pequeno jogo e o fim do JS30](2018/Abril/26.md)
+* [Dia 27 - Iniciando a leitura do You Don't Know JS.](2018/Abril/27.md)
+* [Dia 28 - Inkscape e SVG no Flisol.](2018/Abril/28.md)
+
 
 
