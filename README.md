@@ -97,3 +97,15 @@ Cada log será bem resumido, apenas listando artigos, referências ou códigos q
 ### Maio
 
 * [Dia 01 - Typewriter com JS e artigo sobre coerção de tipos.](2018/Maio/01.md)
+* [Dia 03 - You Don't Know Js e Pomodoro.](2018/Maio/03.md)
+* [Dia 04 - Pomodoro JS.](2018/Maio/04.md)
+* [Dia 07 - You Don't Know Js e Vue.](2018/Maio/07.md)
+* [Dia 10 - Testando força de senhas com Js.](2018/Maio/10.md)
+* [Dia 11 - Replicando uma funcionalidade do instagram.](2018/Maio/11.md)
+* [Dia 14 - Iniciando com Vue JS.](2018/Maio/14.md)
+* [Dia 17 - Finalizando um cursinho de Vue JS.](2018/Maio/17.md)
+* [Dia 18 - Finder Address com  Vue JS.](2018/Maio/18.md)
+* [Dia 22 - Finalizando meu app.](2018/Maio/22.md)
+* [Dia 23 - Refatorando meu app com ajuda da comunidade.](2018/Maio/23.md)
+
+
